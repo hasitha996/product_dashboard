@@ -1,0 +1,11 @@
+.env
+.env.*
+!.env.example
+node_modules
+vendor
+public/build
+public/hot
+public/storage
+storage/logs/*
+tests
+.git
